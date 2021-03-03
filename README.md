@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studying at the University of Leeds
+- 📫 How to reach me: $lack#0001 (Discord), bird.joss@gmail.com
+
 <!--
 **slack69/slack69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
